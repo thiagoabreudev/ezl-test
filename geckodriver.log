@@ -1,50 +1,117 @@
-1532455303100	geckodriver	INFO	geckodriver 0.20.0
-1532455303109	geckodriver	INFO	Listening on 127.0.0.1:55591
-1532455304181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uSI2lMhzedN6"
-1532455304924	Marionette	INFO	Enabled via --marionette
-1532455306386	Marionette	INFO	Listening on port 41335
-1532455306409	Marionette	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://localhost:8000
-console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
-1532456146024	geckodriver	INFO	geckodriver 0.20.0
-1532456146133	geckodriver	INFO	Listening on 127.0.0.1:51729
-1532456147215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mPbVH9nyg9yg"
-1532456148497	Marionette	INFO	Enabled via --marionette
-1532456150322	Marionette	INFO	Listening on port 37651
-1532456150342	Marionette	WARN	TLS certificate errors will be ignored for this session
-1532456150670	geckodriver	INFO	geckodriver 0.20.0
-1532456150679	geckodriver	INFO	Listening on 127.0.0.1:37761
-1532456151733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.srSGETYuGS6Z"
-1532456152501	Marionette	INFO	Enabled via --marionette
-1532456154063	Marionette	INFO	Listening on port 42175
-1532456154144	Marionette	WARN	TLS certificate errors will be ignored for this session
-1532456456946	geckodriver	INFO	geckodriver 0.20.0
-1532456457006	geckodriver	INFO	Listening on 127.0.0.1:46501
-1532456458034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X9ffc7Dtak5F"
-1532456458778	Marionette	INFO	Enabled via --marionette
-1532456460312	Marionette	INFO	Listening on port 42323
-1532456460348	Marionette	WARN	TLS certificate errors will be ignored for this session
-*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
-1532456494110	geckodriver	INFO	geckodriver 0.20.0
-1532456494116	geckodriver	INFO	Listening on 127.0.0.1:54031
-1532456495165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CXUuWz4rMiQX"
-1532456495878	Marionette	INFO	Enabled via --marionette
-1532456497452	Marionette	INFO	Listening on port 33543
-1532456497487	Marionette	WARN	TLS certificate errors will be ignored for this session
-1532456762776	geckodriver	INFO	geckodriver 0.20.0
-1532456762783	geckodriver	INFO	Listening on 127.0.0.1:45409
-1532456763833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tGaMYDPWPR2D"
-1532456764549	Marionette	INFO	Enabled via --marionette
-1532456766065	Marionette	INFO	Listening on port 43675
-1532456766148	Marionette	WARN	TLS certificate errors will be ignored for this session
-1532456818241	geckodriver	INFO	geckodriver 0.20.0
-1532456818247	geckodriver	INFO	Listening on 127.0.0.1:35163
-1532456819296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4i3wWLXBJ5BP"
-1532456820021	Marionette	INFO	Enabled via --marionette
-1532456821531	Marionette	INFO	Listening on port 36931
-1532456821611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532457232685	geckodriver	INFO	geckodriver 0.20.0
+1532457232697	geckodriver	INFO	Listening on 127.0.0.1:57601
+1532457232946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O0Iw1nZchhw0"
+1532457233901	Marionette	INFO	Enabled via --marionette
+1532457235617	Marionette	INFO	Listening on port 44161
+1532457235678	Marionette	WARN	TLS certificate errors will be ignored for this session
 
-(firefox:28594): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb40d1605b0' of type 'MaiAtkType139'
+(firefox:29604): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb3174fbd80' of type 'MaiAtkType139'
 
-(firefox:28594): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb40d160650' of type 'MaiAtkType139'
+(firefox:29604): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb3194396a0' of type 'MaiAtkType139'
 JavaScript error: http://localhost:8000/dashboard/, line 444: ReferenceError: showToast is not defined
+1532457267660	geckodriver	INFO	geckodriver 0.20.0
+1532457267666	geckodriver	INFO	Listening on 127.0.0.1:52119
+1532457268715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4xyYtBSQK3B6"
+1532457269471	Marionette	INFO	Enabled via --marionette
+1532457271096	Marionette	INFO	Listening on port 34609
+1532457271133	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:29844): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fc783cf5920' of type 'MaiAtkType139'
+
+(firefox:29844): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fc783cf5ba0' of type 'MaiAtkType139'
+JavaScript error: http://localhost:8000/dashboard/, line 444: ReferenceError: showToast is not defined
+1532457348389	geckodriver	INFO	geckodriver 0.20.0
+1532457348394	geckodriver	INFO	Listening on 127.0.0.1:53337
+1532457349763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g3k48THxPNpQ"
+1532457350684	Marionette	INFO	Enabled via --marionette
+1532457352370	Marionette	INFO	Listening on port 44995
+1532457352384	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:30273): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f86d7b1bec0' of type 'MaiAtkType13b'
+
+(firefox:30273): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f86d7b3db00' of type 'MaiAtkType139'
+
+(firefox:30273): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f86d7bb8600' of type 'MaiAtkType139'
+JavaScript error: http://localhost:8000/dashboard/, line 444: ReferenceError: showToast is not defined
+1532458047208	geckodriver::marionette	ERROR	Failed to stop browser process
+1532458072591	geckodriver	INFO	geckodriver 0.20.0
+1532458072597	geckodriver	INFO	Listening on 127.0.0.1:43959
+1532458074177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RwKJyxKrixMh"
+1532458076285	Marionette	INFO	Enabled via --marionette
+1532458078670	Marionette	INFO	Listening on port 38243
+1532458078728	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:1392): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f00b36aa150' of type 'MaiAtkType13b'
+
+(firefox:1392): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f00b36aa240' of type 'MaiAtkType139'
+
+(firefox:1392): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f00b36aa380' of type 'MaiAtkType139'
+JavaScript error: http://localhost:8000/dashboard/, line 444: ReferenceError: showToast is not defined
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode1385
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+1532462782114	geckodriver	INFO	geckodriver 0.20.0
+1532462782195	geckodriver	INFO	Listening on 127.0.0.1:57421
+1532462782243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fFRH5Z9okrl4"
+1532462783033	Marionette	INFO	Enabled via --marionette
+1532462784981	Marionette	INFO	Listening on port 41143
+1532462785070	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:16549): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7380e73740' of type 'MaiAtkType139'
+
+(firefox:16549): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7380e737e0' of type 'MaiAtkType139'
+JavaScript error: http://localhost:8000/dashboard/, line 444: ReferenceError: showToast is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532462836246	geckodriver	INFO	geckodriver 0.20.0
+1532462836252	geckodriver	INFO	Listening on 127.0.0.1:52617
+1532462837304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lMo5HyEgCGFX"
+1532462838142	Marionette	INFO	Enabled via --marionette
+1532462839620	Marionette	INFO	Listening on port 41017
+1532462839737	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:16870): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f89127c9150' of type 'MaiAtkType139'
+
+(firefox:16870): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f89127c91f0' of type 'MaiAtkType139'
+JavaScript error: http://localhost:8000/dashboard/, line 444: ReferenceError: showToast is not defined
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://localhost:8000
+1532462969711	geckodriver	INFO	geckodriver 0.20.0
+1532462969716	geckodriver	INFO	Listening on 127.0.0.1:54763
+1532462970771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.H5wmRC11brgS"
+1532462971566	Marionette	INFO	Enabled via --marionette
+1532462973290	Marionette	INFO	Listening on port 35561
+1532462973387	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:17208): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f6ff101ae20' of type 'MaiAtkType139'
+
+(firefox:17208): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f6ff101aec0' of type 'MaiAtkType139'
+JavaScript error: http://localhost:8000/dashboard/, line 444: ReferenceError: showToast is not defined
+
+(firefox:17208): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f6fedad36f0' of type 'MaiAtkType139'
+1532463029346	geckodriver	INFO	geckodriver 0.20.0
+1532463029355	geckodriver	INFO	Listening on 127.0.0.1:40989
+1532463030404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B7Y8FeNdtME2"
+1532463031329	Marionette	INFO	Enabled via --marionette
+1532463033403	Marionette	INFO	Listening on port 43587
+1532463033427	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:17485): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb861738650' of type 'MaiAtkType139'
+
+(firefox:17485): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb8454880b0' of type 'MaiAtkType139'
+JavaScript error: http://localhost:8000/dashboard/, line 444: ReferenceError: showToast is not defined
+
+(firefox:17485): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb83ca8cf10' of type 'MaiAtkType139'
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532463084267	geckodriver	INFO	geckodriver 0.20.0
+1532463084273	geckodriver	INFO	Listening on 127.0.0.1:54861
+1532463085326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uIskFiWlEbmx"
+1532463086103	Marionette	INFO	Enabled via --marionette
+1532463087791	Marionette	INFO	Listening on port 34831
+1532463087858	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:17786): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f78b688da10' of type 'MaiAtkType139'
+
+(firefox:17786): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f78b688dab0' of type 'MaiAtkType139'
+JavaScript error: http://localhost:8000/dashboard/, line 444: ReferenceError: showToast is not defined
+
+(firefox:17786): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f78a96cb6f0' of type 'MaiAtkType139'
